@@ -701,8 +701,8 @@ button{
   flex-wrap:wrap;
   min-height: 100vh;
   align-content: center;
-  gap: 150px;
-  max-width: 900px;
+  gap: 200px;
+  max-width: 90%;
   margin-top: 50px;
 
 }
